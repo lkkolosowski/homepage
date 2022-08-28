@@ -1,4 +1,4 @@
-console.log("Cześć!");
+console.log("Cześć! Ten kod jest już w repozytorium Git.");
 
 let body = document.querySelector(".body");
 let changeThemeButton = document.querySelector(".js-button");
