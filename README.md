@@ -3,10 +3,10 @@
 https://lkkolosowski.github.io/homepage/
 
 ## Preview
-![currency converter preview](images/homepage-preview.gif)
+![homepage preview](images/homepage-preview.gif)
 
 ## Destripction
-This page presents information about myself.
+Welcome to my website! This page presents information about myself.
 
 ## Technologies
 - HTML
