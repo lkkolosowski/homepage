@@ -21,10 +21,12 @@
     const body = document.querySelector(".body");
     const changeThemeButton = document.querySelector(".js-button");
     const changeText = document.querySelector(".js-text");
+    const changeHeart = document.querySelector(".js-heart");
     changeThemeButton.addEventListener("click", () => {
       body.classList.toggle("js-dark-theme");
 
-      changeText.innerText = body.classList.contains("js-dark-theme") ? "jasny" : "ciemny";
+      changeText.innerText = body.classList.contains("js-dark-theme") ? "Jasny" : "Ciemny";
+      changeHeart.innerText = body.classList.contains("js-dark-theme") ? "🤍" : "🖤";
     });
   };
 
